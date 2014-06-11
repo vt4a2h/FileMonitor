@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>pic/watch.PNG</file>
+        <file>pic/open.PNG</file>
+        <file>pic/main.PNG</file>
+    </qresource>
+</RCC>
