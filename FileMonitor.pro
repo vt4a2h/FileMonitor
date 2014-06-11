@@ -14,13 +14,13 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    filesystemmonitor.cpp \
-    windowsfilesystemmonitor.cpp \
-    constants.cpp
+        filesystemmonitor.cpp \
+        windowsfilesystemmonitor.cpp \
+        constants.cpp
 
-HEADERS  += mainwindow.h \
-    filesystemmonitor.h \
-    windowsfilesystemmonitor.h
+HEADERS += mainwindow.h \
+        filesystemmonitor.h \
+        windowsfilesystemmonitor.h
 
 FORMS    += mainwindow.ui
 
